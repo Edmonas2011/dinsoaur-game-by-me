@@ -9,7 +9,6 @@ Play directly in your browser and enjoy a lightweight, responsive game.
 
 Try it out here:  
 [dinsoaur-game-by-me.vercel.app](https://dinsoaur-game-by-me.vercel.app)  
-*(Replace with your actual live demo link if different)*
 
 ---
 
